@@ -1,0 +1,11 @@
+/home/devlprnitish/Desktop/RUST/part2/target/debug/deps/libdotenv-b29dbf93628f1ca7.rmeta: /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/lib.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/parse.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/errors.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/iter.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/find.rs
+
+/home/devlprnitish/Desktop/RUST/part2/target/debug/deps/libdotenv-b29dbf93628f1ca7.rlib: /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/lib.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/parse.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/errors.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/iter.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/find.rs
+
+/home/devlprnitish/Desktop/RUST/part2/target/debug/deps/dotenv-b29dbf93628f1ca7.d: /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/lib.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/parse.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/errors.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/iter.rs /home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/find.rs
+
+/home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/lib.rs:
+/home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/parse.rs:
+/home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/errors.rs:
+/home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/iter.rs:
+/home/devlprnitish/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenv-0.15.0/src/find.rs:
